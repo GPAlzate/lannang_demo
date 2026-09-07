@@ -1,0 +1,2382 @@
+{
+ "note": "Seed lexicon extracted from Gonzales & Lim (2024), Lannang Orthography (LO) Third Edition. Counter-examples printed under 'not recommended' are excluded. Open-o pairs are folded onto the apostrophe form (§III). role:'passage' marks vocabulary taken from the §XIV running text. audio=null until recordings are linked.",
+ "entries": [
+  {
+   "lo": "á-m̂",
+   "ipa": "ʔa³⁵.ʔm̩ ⁵⁵",
+   "source": "Hokkien",
+   "gloss": "dad",
+   "audio": null,
+   "variants": [
+    "á-eûm"
+   ]
+  },
+  {
+   "lo": "á-tsî",
+   "ipa": "ʔa³⁵.tsi⁵⁵",
+   "source": "Hokkien",
+   "gloss": "older sister",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "about",
+   "ipa": null,
+   "source": "English",
+   "gloss": "about",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "accoûnt",
+   "ipa": null,
+   "source": "English",
+   "gloss": "account",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "acquirè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "acquire",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "adjûst",
+   "ipa": null,
+   "source": "English",
+   "gloss": "adjust",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "aeriàl",
+   "ipa": null,
+   "source": "English",
+   "gloss": "aerial",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "aì--ya",
+   "ipa": "ʔaj⁵¹.ja¹¹",
+   "source": "Hokkien",
+   "gloss": "ugh",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "aircòn",
+   "ipa": "ʔɛɹ²².kɔn⁵¹",
+   "source": "English",
+   "gloss": "aircon",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "allèy",
+   "ipa": null,
+   "source": "English",
+   "gloss": "alley",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "allòw",
+   "ipa": "ʔʌ²².law⁵¹",
+   "source": "English",
+   "gloss": "allow",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "amoebà",
+   "ipa": null,
+   "source": "English",
+   "gloss": "amoeba",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "appeàr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "appear",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "applè",
+   "ipa": "ʔæ²².pl ̩⁵¹",
+   "source": "English",
+   "gloss": "apple",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "attâck",
+   "ipa": null,
+   "source": "English",
+   "gloss": "attack",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "aú",
+   "ipa": "ʔaw³⁵",
+   "source": "Hokkien",
+   "gloss": "throat",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "authòr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "author",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "Baguiò",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "Baguio",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "baka",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "maybe",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "basâ",
+   "ipa": "ba²².saʔ⁵⁵",
+   "source": "Tagalog",
+   "gloss": "wet",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "bâtch",
+   "ipa": null,
+   "source": "English",
+   "gloss": "batch",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "bazaàr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "bazaar",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "beâch",
+   "ipa": null,
+   "source": "English",
+   "gloss": "beach",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "Bí-kôk",
+   "ipa": "bi³⁵.kok⁵⁵",
+   "source": "Hokkien",
+   "gloss": "United States",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "biglâ",
+   "ipa": "big²².laʔ⁵⁵",
+   "source": "Tagalog",
+   "gloss": "suddenly",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "bó",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "not",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "bo-wâ",
+   "ipa": "bo²².wa⁵⁵",
+   "source": "Hokkien",
+   "gloss": "hat",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "bô'",
+   "ipa": "bɔ⁵⁵",
+   "source": "Hokkien",
+   "gloss": "wife",
+   "audio": null,
+   "variants": [
+    "bô"
+   ]
+  },
+  {
+   "lo": "boârd",
+   "ipa": null,
+   "source": "English",
+   "gloss": "board",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "Bonifaciò",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "Bonifacio",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "bottlè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "bottle",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "buîld",
+   "ipa": null,
+   "source": "English",
+   "gloss": "build",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "buwân",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "moon",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "canoè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "canoe",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "Cavitè",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "Cavite",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "Cebù",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "Cebu",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "ceilìng",
+   "ipa": null,
+   "source": "English",
+   "gloss": "ceiling",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "cellò",
+   "ipa": null,
+   "source": "English",
+   "gloss": "cello",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "chá",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "here",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "chaìr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "chair",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "châlk",
+   "ipa": null,
+   "source": "English",
+   "gloss": "chalk",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "chêf",
+   "ipa": null,
+   "source": "English",
+   "gloss": "chef",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "chismîs",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "gossip",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "chôrd",
+   "ipa": null,
+   "source": "English",
+   "gloss": "chord",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "cluè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "clue",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "colonèl",
+   "ipa": null,
+   "source": "English",
+   "gloss": "colonel",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "congeè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "congee",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "cookiè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "cookie",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "còrn",
+   "ipa": null,
+   "source": "English",
+   "gloss": "corn",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "corned",
+   "ipa": null,
+   "source": "English",
+   "gloss": "corned",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "CR",
+   "ipa": "si²².ʔɑɹ⁵¹",
+   "source": "English",
+   "gloss": "comfort room",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "CR̀",
+   "ipa": "si²².ʔɑɹ⁵¹",
+   "source": "English",
+   "gloss": "comfort room",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "daân",
+   "ipa": "da²².ʔan⁵⁵",
+   "source": "Tagalog",
+   "gloss": "path",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "daggèr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "dagger",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "dapât",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "should",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "daughtèr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "daughter",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "deâf",
+   "ipa": null,
+   "source": "English",
+   "gloss": "deaf",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "dî",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "you",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "di-tsî",
+   "ipa": "di²².tsi⁵⁵",
+   "source": "Hokkien",
+   "gloss": "second oldest sister",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "difficûlt",
+   "ipa": null,
+   "source": "English",
+   "gloss": "difficult",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "dít--si",
+   "ipa": "dit³⁵.si⁵¹",
+   "source": "Hokkien",
+   "gloss": "daytime",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "dit-tsî",
+   "ipa": "dit²².tsi⁵⁵",
+   "source": "Hokkien",
+   "gloss": "date",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "diyaryò",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "newspaper",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "equàl",
+   "ipa": null,
+   "source": "English",
+   "gloss": "equal",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "fastèn",
+   "ipa": null,
+   "source": "English",
+   "gloss": "fasten",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "fathèr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "father",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "Fernandò",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "Fernando",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "fiêld",
+   "ipa": null,
+   "source": "English",
+   "gloss": "field",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "floôd",
+   "ipa": null,
+   "source": "English",
+   "gloss": "flood",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "floòr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "floor",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "floùr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "flour",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "fluoridê",
+   "ipa": null,
+   "source": "English",
+   "gloss": "fluoride",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "foôd",
+   "ipa": "fud⁵⁵",
+   "source": "English",
+   "gloss": "food",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "foreìgn",
+   "ipa": null,
+   "source": "English",
+   "gloss": "foreign",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "Francò",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "Franco",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "friênd",
+   "ipa": null,
+   "source": "English",
+   "gloss": "friend",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "gadgêt",
+   "ipa": null,
+   "source": "English",
+   "gloss": "gadget",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "ganyân",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "like that",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "genrè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "genre",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "Geronimò",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "Geronimo",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "ghôst",
+   "ipa": null,
+   "source": "English",
+   "gloss": "ghost",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "gú",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "cow",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "Guadalupè",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "Guadalupe",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "guaranteè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "guarantee",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "guârd",
+   "ipa": null,
+   "source": "English",
+   "gloss": "guard",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "guêss",
+   "ipa": null,
+   "source": "English",
+   "gloss": "guess",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "Guevarrà",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "Guevarra",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "habang",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "while",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "haî",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "sea",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "hammèr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "hammer",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "hând",
+   "ipa": null,
+   "source": "English",
+   "gloss": "hand",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "haû",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "to cry",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "hê",
+   "ipa": "he⁵⁵",
+   "source": "Hokkien",
+   "gloss": "light",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "heârt",
+   "ipa": null,
+   "source": "English",
+   "gloss": "heart",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "hi-yâ",
+   "ipa": "hi²².ja⁵⁵",
+   "source": "Hokkien",
+   "gloss": "ear",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "hn̄g",
+   "ipa": "hŋ̍ ³³",
+   "source": "Hokkien",
+   "gloss": "far",
+   "audio": null,
+   "variants": [
+    "heūng"
+   ]
+  },
+  {
+   "lo": "hô",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "good",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "hō'",
+   "ipa": "hɔ³³",
+   "source": "Hokkien",
+   "gloss": "rain",
+   "audio": null,
+   "variants": [
+    "hō"
+   ]
+  },
+  {
+   "lo": "huáⁿ",
+   "ipa": "hwã³⁵",
+   "source": "Hokkien",
+   "gloss": "to snore",
+   "audio": null,
+   "variants": [
+    "huánn"
+   ]
+  },
+  {
+   "lo": "iáⁿ",
+   "ipa": "ʔjã³⁵",
+   "source": "Hokkien",
+   "gloss": "to win",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "iáⁿ-hì",
+   "ipa": "ʔjã³⁵.hi⁵¹",
+   "source": "Hokkien",
+   "gloss": "movie",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "iced",
+   "ipa": null,
+   "source": "English",
+   "gloss": "iced",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "ìⁿ",
+   "ipa": "ʔĩ⁵¹",
+   "source": "Hokkien",
+   "gloss": "church",
+   "audio": null,
+   "variants": [
+    "ìnn"
+   ]
+  },
+  {
+   "lo": "innèr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "inner",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "iúⁿ--khi",
+   "ipa": "ʔjũ³⁵ kʰi⁵¹",
+   "source": "Hokkien",
+   "gloss": "to melt away",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "iúⁿ--khi-be",
+   "ipa": "ʔjũ³⁵ kʰi⁵¹ be¹¹",
+   "source": "Hokkien",
+   "gloss": "melted away yet",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "iwân",
+   "ipa": "ʔi²².wan⁵⁵",
+   "source": "Tagalog",
+   "gloss": "to leave behind",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "jackêt",
+   "gloss": "jacket",
+   "source": "English",
+   "ipa": null,
+   "audio": null,
+   "variants": [],
+   "role": "passage"
+  },
+  {
+   "lo": "jaìl",
+   "ipa": null,
+   "source": "English",
+   "gloss": "jail",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "Josè",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "Jose",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "journèy",
+   "ipa": null,
+   "source": "English",
+   "gloss": "journey",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "kā",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "to bite",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "kah-tshiû",
+   "ipa": "kaʔ²².tsʰju⁵⁵",
+   "source": "Hokkien",
+   "gloss": "to raise one",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "kasì",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "because",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "kaû",
+   "ipa": "kaw⁵⁵",
+   "source": "Hokkien",
+   "gloss": "dog",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "kausâp",
+   "ipa": "ka²².ʔu²².sap⁵⁵",
+   "source": "Tagalog",
+   "gloss": "person to talk to",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "kè",
+   "ipa": "ke⁵¹",
+   "source": "Hokkien",
+   "gloss": "to cross",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "khà",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "to knock",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "khaī",
+   "ipa": "kʰaj³³",
+   "source": "Hokkien",
+   "gloss": "to spend",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "khè",
+   "ipa": "kʰe⁵¹",
+   "source": "Hokkien",
+   "gloss": "to place",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "khiⁿ-yâ",
+   "ipa": "kʰĩ²².ja⁵⁵",
+   "source": "Hokkien",
+   "gloss": "pliers",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "khùn--khi",
+   "ipa": "kʰun⁵¹ kʰi¹¹",
+   "source": "Hokkien",
+   "gloss": "to fall asleep",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "khùn--khi-be",
+   "ipa": "kʰun⁵¹ kʰi¹¹ be¹¹",
+   "source": "Hokkien",
+   "gloss": "fell asleep yet",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "kīn-ná",
+   "ipa": "kin³³.a³⁵",
+   "source": "Hokkien",
+   "gloss": "today",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "kìng",
+   "ipa": null,
+   "source": "English",
+   "gloss": "king",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "KKB",
+   "ipa": "kej²².kej²².bi⁵¹",
+   "source": "Tagalog",
+   "gloss": "to pay for one",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "KKB̀",
+   "ipa": "kej²².kej²².bi⁵¹",
+   "source": "Tagalog",
+   "gloss": "to pay for one",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "kneè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "knee",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "knowledgê",
+   "ipa": null,
+   "source": "English",
+   "gloss": "knowledge",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "kuì",
+   "ipa": "kwi⁵¹",
+   "source": "Hokkien",
+   "gloss": "expensive",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "lâng",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "only",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "Lánnáng",
+   "ipa": "lan³⁵.naŋ³⁵",
+   "source": "Hokkien",
+   "gloss": "Lannang",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "làw",
+   "ipa": null,
+   "source": "English",
+   "gloss": "law",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "leisurè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "leisure",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "leopârd",
+   "ipa": null,
+   "source": "English",
+   "gloss": "leopard",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "lettèr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "letter",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "liquòr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "liquor",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "lò'",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "road",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "lockèr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "locker",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "lumpiâ",
+   "ipa": "lum²².pjaʔ⁵⁵",
+   "source": "Tagalog",
+   "gloss": "lumpia",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "lunchbôx",
+   "ipa": "lʌntʃ²².bɑks⁵⁵",
+   "source": "English",
+   "gloss": "lunchbox",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "luncheòn",
+   "ipa": null,
+   "source": "English",
+   "gloss": "luncheon",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "m-kû",
+   "ipa": "ʔm̩ ²².ku⁵⁵",
+   "source": "Hokkien",
+   "gloss": "but",
+   "audio": null,
+   "variants": [
+    "eum-kû"
+   ]
+  },
+  {
+   "lo": "mag-isà",
+   "ipa": "mag²².ʔi²².sa⁵¹",
+   "source": "Tagalog",
+   "gloss": "alone",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "malakâs",
+   "gloss": "strong",
+   "source": "Tagalog",
+   "ipa": null,
+   "audio": null,
+   "variants": [],
+   "role": "passage"
+  },
+  {
+   "lo": "maskì",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "even if",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "medyo",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "somewhat",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "mì",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "noodles",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "mischiêf",
+   "ipa": null,
+   "source": "English",
+   "gloss": "mischief",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "missiòn",
+   "ipa": null,
+   "source": "English",
+   "gloss": "mission",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "mountaìn",
+   "ipa": null,
+   "source": "English",
+   "gloss": "mountain",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "mutyâ",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "amulet",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "myrtlè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "myrtle",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "mŷth",
+   "ipa": null,
+   "source": "English",
+   "gloss": "myth",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "namân",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "request softener",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "ngâ",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "indeed",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "ngô'",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "five (literary)",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "ní",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "year",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "niyôg",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "coconut",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "noodlè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "noodle",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "North Wînd",
+   "gloss": "North Wind",
+   "source": "English",
+   "ipa": null,
+   "audio": null,
+   "variants": [],
+   "role": "passage"
+  },
+  {
+   "lo": "nothìng",
+   "ipa": null,
+   "source": "English",
+   "gloss": "nothing",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "offèr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "offer",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "pâ",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "full (eating)",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "pâck",
+   "ipa": null,
+   "source": "English",
+   "gloss": "pack",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "pag-asà",
+   "ipa": "pag²².ʔa²².sa⁵¹",
+   "source": "Tagalog",
+   "gloss": "hope",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "pag-ibîg",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "love",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "paìn",
+   "ipa": null,
+   "source": "English",
+   "gloss": "pain",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "pakô",
+   "ipa": "pa²².koʔ⁵⁵",
+   "source": "Tagalog",
+   "gloss": "nail",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "pang",
+   "ipa": "paŋ²²",
+   "source": "Tagalog",
+   "gloss": "instrumental prefix",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "pàng--tshu-lai",
+   "ipa": "paŋ⁵¹ tsʰʊ¹¹ laj¹¹",
+   "source": "Hokkien",
+   "gloss": "to expel",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "pang-inôm",
+   "ipa": "paŋ²².ʔi²².nom⁵⁵",
+   "source": "Tagalog",
+   "gloss": "thing used for drinking",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "para",
+   "gloss": "so that",
+   "source": "Tagalog",
+   "ipa": null,
+   "audio": null,
+   "variants": [],
+   "role": "passage"
+  },
+  {
+   "lo": "pasâ",
+   "ipa": "pa²².saʔ⁵⁵",
+   "source": "Tagalog",
+   "gloss": "bruise",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "pasyâl",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "to stroll",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "pē",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "to fly",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "peoplè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "people",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "pero",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "but",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "phā",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "to park",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "phē",
+   "ipa": "pʰe³³",
+   "source": "Hokkien",
+   "gloss": "blanket",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "phiò",
+   "ipa": "pʰjo⁵¹",
+   "source": "Hokkien",
+   "gloss": "ticket",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "pho'-wâ",
+   "ipa": "pʰɔ²².wa⁵⁵",
+   "source": "Hokkien",
+   "gloss": "notebook",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "photò",
+   "ipa": null,
+   "source": "English",
+   "gloss": "photo",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "pillòw",
+   "ipa": null,
+   "source": "English",
+   "gloss": "pillow",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "pizzà",
+   "ipa": null,
+   "source": "English",
+   "gloss": "pizza",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "pǹg",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "rice",
+   "audio": null,
+   "variants": [
+    "peùng"
+   ]
+  },
+  {
+   "lo": "porket",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "just because",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "poroûs",
+   "ipa": null,
+   "source": "English",
+   "gloss": "porous",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "poùr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "pour",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "pressurè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "pressure",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "psychîc",
+   "ipa": null,
+   "source": "English",
+   "gloss": "psychic",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "puddlè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "puddle",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "puíh",
+   "ipa": "pwiʔ³⁵",
+   "source": "Hokkien",
+   "gloss": "to pull forcefully",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "pùrr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "purr",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "quârtz",
+   "ipa": null,
+   "source": "English",
+   "gloss": "quartz",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "queèn",
+   "ipa": null,
+   "source": "English",
+   "gloss": "queen",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "questiòn",
+   "ipa": null,
+   "source": "English",
+   "gloss": "question",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "Quezôn",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "Quezon",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "rabbît",
+   "ipa": null,
+   "source": "English",
+   "gloss": "rabbit",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "recruît",
+   "ipa": null,
+   "source": "English",
+   "gloss": "recruit",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "regiòn",
+   "ipa": null,
+   "source": "English",
+   "gloss": "region",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "rhymè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "rhyme",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "rhythm̀",
+   "ipa": "ɹɪ²².ðm̩ ⁵¹",
+   "source": "English",
+   "gloss": "rhythm",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "rîn",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "also",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "roûgh",
+   "ipa": null,
+   "source": "English",
+   "gloss": "rough",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "routinè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "routine",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "sadyâ",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "on purpose",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "sanà",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "hopefully",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "sayâng",
+   "ipa": "sa²².jaŋ⁵⁵",
+   "source": "Tagalog",
+   "gloss": "because",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "scenè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "scene",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "scrèw",
+   "ipa": null,
+   "source": "English",
+   "gloss": "screw",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "seizurè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "seizure",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "sergeânt",
+   "ipa": null,
+   "source": "English",
+   "gloss": "sergeant",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "shîrt",
+   "ipa": null,
+   "source": "English",
+   "gloss": "shirt",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "shō",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "hot",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "sī",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "to be",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "sìgn",
+   "ipa": null,
+   "source": "English",
+   "gloss": "sign",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "siūⁿ",
+   "ipa": "sjũ³³",
+   "source": "Hokkien",
+   "gloss": "to think",
+   "audio": null,
+   "variants": [
+    "siūnn"
+   ]
+  },
+  {
+   "lo": "siyemprè",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "surely",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "sizzlè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "sizzle",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "sleûth",
+   "ipa": null,
+   "source": "English",
+   "gloss": "sleuth",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "Sók-bù",
+   "ipa": "sok³⁵.bu⁵¹",
+   "source": "Hokkien",
+   "gloss": "Cebu",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "soldièr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "soldier",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "stâlk",
+   "ipa": null,
+   "source": "English",
+   "gloss": "stalk",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "statiòn",
+   "ipa": null,
+   "source": "English",
+   "gloss": "station",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "stìr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "stir",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "strìng",
+   "ipa": "stɹɪŋ⁵¹",
+   "source": "English",
+   "gloss": "string",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "suāⁿ",
+   "ipa": "swã³³",
+   "source": "Hokkien",
+   "gloss": "mountain",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "sugàr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "sugar",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "Sùn",
+   "gloss": "Sun",
+   "source": "English",
+   "ipa": null,
+   "audio": null,
+   "variants": [],
+   "role": "passage"
+  },
+  {
+   "lo": "tā--khi",
+   "ipa": "ta³³ kʰi³¹",
+   "source": "Hokkien",
+   "gloss": "to become dry",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tā--khi-be",
+   "ipa": "ta³³ kʰi³¹ be¹¹",
+   "source": "Hokkien",
+   "gloss": "became dry yet",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tàⁿ",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "mistake",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tapôs",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "and then",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "té",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "tea",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "te-yâ",
+   "ipa": "te²².ja⁵⁵",
+   "source": "Hokkien",
+   "gloss": "pocket",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "thaū-thuéh",
+   "ipa": "tʰaw³³.tʰweʔ³⁵",
+   "source": "Hokkien",
+   "gloss": "to steal",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "thê",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "attitude",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "thèn",
+   "ipa": null,
+   "source": "English",
+   "gloss": "then",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "thng-ngâ",
+   "ipa": "tʰŋ̍ ²².ŋa⁵⁵",
+   "source": "Hokkien",
+   "gloss": "candy",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "thoûght",
+   "ipa": null,
+   "source": "English",
+   "gloss": "thought",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "through",
+   "ipa": null,
+   "source": "English",
+   "gloss": "through",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tiîs",
+   "ipa": "ti²².ʔis⁵⁵",
+   "source": "Tagalog",
+   "gloss": "to endure",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "timè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "time",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tiong-iaù",
+   "ipa": "tjoŋ²².ʔjaw⁵¹",
+   "source": "Hokkien",
+   "gloss": "important",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tiyagâ",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "to put effort",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tò",
+   "ipa": "to⁵¹",
+   "source": "Hokkien",
+   "gloss": "left",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tò--khi-lo'",
+   "ipa": "to⁵¹ kʰi¹¹ lɔ¹¹",
+   "source": "Hokkien",
+   "gloss": "go home already",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tò'",
+   "ipa": "tɔ⁵¹",
+   "source": "Hokkien",
+   "gloss": "degree",
+   "audio": null,
+   "variants": [
+    "tò"
+   ]
+  },
+  {
+   "lo": "Torrês",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "Torres",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tossed",
+   "ipa": null,
+   "source": "English",
+   "gloss": "tossed",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "toûch",
+   "ipa": null,
+   "source": "English",
+   "gloss": "touch",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "trekkèr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "trekker",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tsaka",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "and also",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tsaû",
+   "ipa": "tsaw⁵⁵",
+   "source": "Hokkien",
+   "gloss": "to run",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tsaû--khi",
+   "ipa": "tsaw⁵⁵ kʰi⁵¹",
+   "source": "Hokkien",
+   "gloss": "to run away",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tsaû--khi-be",
+   "ipa": "tsaw⁵⁵ kʰi⁵¹ be¹¹",
+   "source": "Hokkien",
+   "gloss": "ran away yet",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tsē",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "to sit",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tshat-tâ",
+   "ipa": "tsʰat²².a⁵⁵",
+   "source": "Hokkien",
+   "gloss": "thief",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tshè",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "to find",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tshiám-mâ",
+   "ipa": "tsʰjam³⁵.a⁵⁵",
+   "source": "Hokkien",
+   "gloss": "fork",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tshiùⁿ",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "to sing",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tshù",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "house",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tshû",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "to exit",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tsî",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "to cook",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tsî",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "this",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tsih-â",
+   "ipa": "tsiʔ²².a⁵⁵",
+   "source": "Hokkien",
+   "gloss": "tongue",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tsíⁿ",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "money",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tsiûⁿ-wâ",
+   "ipa": "tsjũ⁵⁵.wa⁵⁵",
+   "source": "Hokkien",
+   "gloss": "how",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tsokolatè",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "chocolate",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tu-wâ",
+   "ipa": "tu²².wa⁵⁵",
+   "source": "Hokkien",
+   "gloss": "cabinet",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "tunè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "tune",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "TV",
+   "ipa": "tʰi²².vi⁵¹",
+   "source": "English",
+   "gloss": "television",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "TV̀",
+   "ipa": "tʰi²².vi⁵¹",
+   "source": "English",
+   "gloss": "television",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "ué",
+   "ipa": "ʔwe³⁵",
+   "source": "Hokkien",
+   "gloss": "shoe",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "ulît",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "again",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "unclè",
+   "ipa": "ʔʌŋ²².kl ̩⁵¹",
+   "source": "English",
+   "gloss": "uncle",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "under",
+   "ipa": null,
+   "source": "English",
+   "gloss": "under",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "Vigân",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "Vigan",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "visiòn",
+   "ipa": null,
+   "source": "English",
+   "gloss": "vision",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "wà",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "wow",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "well-mannerêd",
+   "ipa": "wɛl²².mæ²².nɹ̩d⁵⁵",
+   "source": "English",
+   "gloss": "well-mannered",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "wheèl",
+   "ipa": null,
+   "source": "English",
+   "gloss": "wheel",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "whìrr",
+   "ipa": null,
+   "source": "English",
+   "gloss": "whirr",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "wholè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "whole",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "wôlf",
+   "ipa": null,
+   "source": "English",
+   "gloss": "wolf",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "wômb",
+   "ipa": null,
+   "source": "English",
+   "gloss": "womb",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "womèn",
+   "ipa": null,
+   "source": "English",
+   "gloss": "women",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "worsèn",
+   "ipa": null,
+   "source": "English",
+   "gloss": "worsen",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "writê",
+   "ipa": null,
+   "source": "English",
+   "gloss": "write",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "xylophonè",
+   "ipa": null,
+   "source": "English",
+   "gloss": "xylophone",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "yá",
+   "ipa": null,
+   "source": "Hokkien",
+   "gloss": "very",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "yung",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "direct particle",
+   "audio": null,
+   "variants": []
+  },
+  {
+   "lo": "Zamboangà",
+   "ipa": null,
+   "source": "Tagalog",
+   "gloss": "Zamboanga",
+   "audio": null,
+   "variants": []
+  }
+ ]
+}

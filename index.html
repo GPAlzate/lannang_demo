@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+<title>Lánnang-uè Workbench</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="app">
+
+  <header>
+    <h1>Lánnang-uè</h1>
+    <p>Type it. Hear it. Fix it.</p>
+  </header>
+
+  <nav class="rail" id="rail">
+    <div class="step" data-step="1"><b>1</b><span>Type</span></div>
+    <div class="step" data-step="2"><b>2</b><span>Find</span></div>
+    <div class="step" data-step="3"><b>3</b><span>Listen</span></div>
+    <div class="step" data-step="4"><b>4</b><span>Compare</span></div>
+    <div class="step" data-step="5"><b>5</b><span>Save</span></div>
+  </nav>
+
+  <main>
+
+    <!-- 1 ─ TYPE ─────────────────────────────────────────────── -->
+    <section class="card" id="c1">
+      <div class="cardtop">
+        <h2>What do you want to write?</h2>
+        <div class="seg" id="mode">
+          <button class="on" data-mode="keys">Tone keys</button>
+          <button data-mode="ascii">Plain letters</button>
+        </div>
+      </div>
+      <div class="entry" id="entry" role="textbox" aria-label="Lannang Orthography input">
+        <span id="entryText"></span><span class="caret"></span>
+      </div>
+      <p class="raw" id="raw" hidden></p>
+      <p class="hint" id="hint">Tap letters, then a tone. Hokkien, Tagalog and English all welcome.</p>
+    </section>
+
+    <!-- 2 ─ FIND ─────────────────────────────────────────────── -->
+    <section class="card" id="c2" hidden>
+      <h2>Words in the archive</h2>
+      <ul class="matches" id="matches"></ul>
+      <p class="empty" id="noMatch" hidden>No match yet — keep typing, or write freely.</p>
+    </section>
+
+    <!-- 3 ─ LISTEN ───────────────────────────────────────────── -->
+    <section class="card" id="c3" hidden>
+      <div class="word">
+        <div>
+          <div class="lo" id="selLo"></div>
+          <div class="gloss" id="selGloss"></div>
+        </div>
+        <span class="badge" id="selSrc"></span>
+      </div>
+      <div class="ipa" id="selIpa"></div>
+      <button class="play" id="play"><span class="tri"></span><span id="playLabel">Play recording</span></button>
+      <p class="hint" id="audioNote"></p>
+    </section>
+
+    <!-- 4 ─ COMPARE ──────────────────────────────────────────── -->
+    <section class="card" id="c4" hidden>
+      <h2>How well did the computer hear it?</h2>
+      <label class="lbl" for="hyp">What the speech recogniser produced</label>
+      <textarea id="hyp" rows="3" spellcheck="false"
+        placeholder="Paste a transcript from your speech-to-text model…"></textarea>
+      <div class="row">
+        <button class="btn" id="compare">Compare</button>
+        <button class="btn ghost" id="demoVariant">Try the spelling-variant example</button>
+      </div>
+      <div id="cmpOut" hidden>
+        <div class="scores" id="scores"></div>
+        <div class="pairs" id="pairs"></div>
+      </div>
+    </section>
+
+    <!-- 5 ─ SAVE ─────────────────────────────────────────────── -->
+    <section class="card" id="c5" hidden>
+      <h2>Fix it, then keep it</h2>
+      <p class="hint">Correct anything the recogniser got wrong. Your version is the one that gets saved.</p>
+      <div class="entry small" id="fixEntry" role="textbox"><span id="fixText"></span><span class="caret"></span></div>
+      <div class="row">
+        <button class="btn" id="save">Save corrected record</button>
+        <button class="btn ghost" id="reset">Start again</button>
+      </div>
+      <pre class="saved" id="saved" hidden></pre>
+    </section>
+
+  </main>
+</div>
+
+<!-- ─ KEYBOARD ──────────────────────────────────────────────── -->
+<div class="kb" id="kb">
+  <div class="kbrow tones" id="toneRow"></div>
+  <div class="kbrow" data-keys="qwertyuiop"></div>
+  <div class="kbrow" data-keys="asdfghjkl"></div>
+  <div class="kbrow">
+    <button class="k mod" id="shift" aria-label="Shift">⇧</button>
+    <span class="kbrow inline" data-keys="zxcvbnm"></span>
+    <button class="k mod" id="back" aria-label="Backspace">⌫</button>
+  </div>
+  <div class="kbrow last">
+    <button class="k sp" data-ins="ⁿ">ⁿ</button>
+    <button class="k sp" data-ins="'">'</button>
+    <button class="k sp" data-ins="-">-</button>
+    <button class="k space" data-ins=" ">space</button>
+    <button class="k sp" data-ins=",">,</button>
+    <button class="k sp" data-ins=".">.</button>
+  </div>
+</div>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>

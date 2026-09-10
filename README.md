@@ -6,20 +6,17 @@ and correcting what speech recognition gets wrong.
 Built on Gonzales, Wilkinson Daniel Wong & Rauha Huigiok Lim. 2024.
 *Lannang Orthography (LO) Third Edition.* The Lannang Archives.
 
-## The flow
+## The app
 
-One record moves through five stages. What you type in stage 1 is the same object you
-export in stage 5.
+`index.html` is the whole learner surface: two tabs over one engine.
 
-| | Stage | Status |
-|---|---|---|
-| 1 | **Type** — on-screen LO keyboard: tones, `ⁿ`, open o, neutral tone | fully real |
-| 2 | **Find** — search 294 headwords by spelling or meaning | fully real |
-| 3 | **Listen** — word detail and recording | implementation prepared; **no audio included** |
-| 4 | **Compare** — machine transcript against the reference | real; needs a transcript |
-| 5 | **Save** — correct it and export the record | fully real |
+**Read** — tap any word in an LO passage and it decomposes into syllables, each with its
+tone, its meaning in the passage, and which letter carries the mark. Nothing is prepared
+per word; the breakdown is computed by the same §IX cascade that places the marks when
+you type, which is why it works on words nobody entered in advance.
 
-Open `#demo` to drive stages 1–4 automatically for a screen recording.
+**Write** — you are given a meaning, you type the word on the LO keyboard, and it says
+what is right or wrong syllable by syllable, with the rule that decided it.
 
 ## Why the keyboard matters
 
@@ -91,7 +88,7 @@ tone row is an app affordance; the transducer is the keyboard.
 
 ## Prediction — and why it matters more here than in English
 
-`keyboard.html` shows a candidate strip above the tone row. It is not a dictionary
+`index.html` shows a candidate strip above the tone row. It is not a dictionary
 lookup; it inserts into what you are typing.
 
 Two reasons it earns the space:
@@ -106,9 +103,6 @@ Two reasons it earns the space:
 
 Candidates carry a source-language dot, so code-switching stays visible without
 interrupting.
-
-The workbench (`index.html`) keeps its archive *search* — but that is a different job:
-retrieval for the correction task, not typing assistance.
 
 ### Known gap
 
